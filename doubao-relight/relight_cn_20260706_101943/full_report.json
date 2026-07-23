@@ -1,0 +1,227 @@
+{
+  "test_time": "2026-07-06T10:31:06.895121",
+  "reference_image": "https://ark-project.tos-cn-beijing.volces.com/doc_image/seedream4_imagesToimage_1.png",
+  "prompt_language": "zh-cn",
+  "total": 24,
+  "passed": 24,
+  "failed": 0,
+  "total_time_s": 669.33,
+  "results": [
+    {
+      "case_id": "A-01",
+      "group": "A",
+      "name": "电影质感光影(轻强度)",
+      "success": true,
+      "elapsed_s": 36.86,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-01_A_电影质感光影(轻强度)_102019.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-02",
+      "group": "A",
+      "name": "电影质感光影(全强度)",
+      "success": true,
+      "elapsed_s": 32.8,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-02_A_电影质感光影(全强度)_102053.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-03",
+      "group": "A",
+      "name": "金色黄昏暖光(轻强度)",
+      "success": true,
+      "elapsed_s": 25.66,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-03_A_金色黄昏暖光(轻强度)_102119.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-04",
+      "group": "A",
+      "name": "金色黄昏暖光(全强度)",
+      "success": true,
+      "elapsed_s": 31.59,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-04_A_金色黄昏暖光(全强度)_102151.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-05",
+      "group": "A",
+      "name": "霓虹赛博朋克(轻强度)",
+      "success": true,
+      "elapsed_s": 36.32,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-05_A_霓虹赛博朋克(轻强度)_102228.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-06",
+      "group": "A",
+      "name": "霓虹赛博朋克(全强度)",
+      "success": true,
+      "elapsed_s": 30.96,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-06_A_霓虹赛博朋克(全强度)_102300.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-07",
+      "group": "A",
+      "name": "阴郁低调光影(轻强度)",
+      "success": true,
+      "elapsed_s": 30.54,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-07_A_阴郁低调光影(轻强度)_102331.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-08",
+      "group": "A",
+      "name": "阴郁低调光影(全强度)",
+      "success": true,
+      "elapsed_s": 25.4,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-08_A_阴郁低调光影(全强度)_102357.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-09",
+      "group": "A",
+      "name": "棚拍专业人像光(轻强度)",
+      "success": true,
+      "elapsed_s": 28.64,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-09_A_棚拍专业人像光(轻强度)_102426.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-10",
+      "group": "A",
+      "name": "棚拍专业人像光(全强度)",
+      "success": true,
+      "elapsed_s": 28.17,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\A-10_A_棚拍专业人像光(全强度)_102455.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-01",
+      "group": "B",
+      "name": "逆光 — 从背后打光，轮廓发光",
+      "success": true,
+      "elapsed_s": 27.41,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\B-01_B_逆光_—_从背后打光，轮廓发光_102523.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-02",
+      "group": "B",
+      "name": "侧逆光/轮廓光 — 单侧勾勒轮廓",
+      "success": true,
+      "elapsed_s": 30.4,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\B-02_B_侧逆光_轮廓光_—_单侧勾勒轮廓_102554.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-03",
+      "group": "B",
+      "name": "顶光 — 蝴蝶光/时尚大片",
+      "success": true,
+      "elapsed_s": 25.62,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\B-03_B_顶光_—_蝴蝶光_时尚大片_102620.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-04",
+      "group": "B",
+      "name": "侧光 — 阴阳脸/黑色电影风",
+      "success": true,
+      "elapsed_s": 29.0,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\B-04_B_侧光_—_阴阳脸_黑色电影风_102650.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-05",
+      "group": "B",
+      "name": "顺光 — 均匀打亮面部",
+      "success": true,
+      "elapsed_s": 25.34,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\B-05_B_顺光_—_均匀打亮面部_102716.png",
+      "error": ""
+    },
+    {
+      "case_id": "C-01",
+      "group": "C",
+      "name": "暖色调 — 琥珀金色氛围",
+      "success": true,
+      "elapsed_s": 24.8,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\C-01_C_暖色调_—_琥珀金色氛围_102741.png",
+      "error": ""
+    },
+    {
+      "case_id": "C-02",
+      "group": "C",
+      "name": "冷色调 — 冰蓝清冷氛围",
+      "success": true,
+      "elapsed_s": 23.13,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\C-02_C_冷色调_—_冰蓝清冷氛围_102805.png",
+      "error": ""
+    },
+    {
+      "case_id": "C-03",
+      "group": "C",
+      "name": "中性色温 — 自然日光白平衡",
+      "success": true,
+      "elapsed_s": 24.23,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\C-03_C_中性色温_—_自然日光白平衡_102830.png",
+      "error": ""
+    },
+    {
+      "case_id": "D-01",
+      "group": "D",
+      "name": "强度渐变_0.3",
+      "success": true,
+      "elapsed_s": 25.68,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\D-01_D_强度渐变_0.3_102856.png",
+      "error": ""
+    },
+    {
+      "case_id": "D-02",
+      "group": "D",
+      "name": "强度渐变_0.5",
+      "success": true,
+      "elapsed_s": 24.48,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\D-02_D_强度渐变_0.5_102921.png",
+      "error": ""
+    },
+    {
+      "case_id": "D-03",
+      "group": "D",
+      "name": "强度渐变_0.8",
+      "success": true,
+      "elapsed_s": 23.02,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\D-03_D_强度渐变_0.8_102945.png",
+      "error": ""
+    },
+    {
+      "case_id": "D-04",
+      "group": "D",
+      "name": "强度渐变_1.0",
+      "success": true,
+      "elapsed_s": 27.8,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\D-04_D_强度渐变_1.0_103014.png",
+      "error": ""
+    },
+    {
+      "case_id": "E-01",
+      "group": "E",
+      "name": "简短Prompt vs 详细Prompt",
+      "success": true,
+      "elapsed_s": 25.02,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\E-01_E_简短Prompt_vs_详细Prompt_103039.png",
+      "error": ""
+    },
+    {
+      "case_id": "E-02",
+      "group": "E",
+      "name": "简短Prompt vs 详细Prompt",
+      "success": true,
+      "elapsed_s": 26.46,
+      "local_path": "../output_relight_cn\\relight_cn_20260706_101943\\E-02_E_简短Prompt_vs_详细Prompt_103106.png",
+      "error": ""
+    }
+  ]
+}

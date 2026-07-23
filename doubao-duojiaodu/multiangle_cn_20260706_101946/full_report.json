@@ -1,0 +1,272 @@
+{
+  "test_time": "2026-07-06T10:33:10.799536",
+  "reference_image": "https://ark-project.tos-cn-beijing.volces.com/doc_image/seedream4_imagesToimage_1.png",
+  "prompt_language": "zh-cn",
+  "total": 29,
+  "passed": 29,
+  "failed": 0,
+  "total_time_s": 786.46,
+  "results": [
+    {
+      "case_id": "A-01",
+      "group": "A",
+      "name": "鱼眼镜头 — 180°球面畸变(轻强度)",
+      "success": true,
+      "elapsed_s": 31.18,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-01_A_鱼眼镜头_—_180°球面畸变(轻强度)_102017.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-02",
+      "group": "A",
+      "name": "鱼眼镜头 — 180°球面畸变(全强度)",
+      "success": true,
+      "elapsed_s": 25.32,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-02_A_鱼眼镜头_—_180°球面畸变(全强度)_102043.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-03",
+      "group": "A",
+      "name": "广角镜头 — 24mm 开阔视野(轻强度)",
+      "success": true,
+      "elapsed_s": 26.68,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-03_A_广角镜头_—_24mm_开阔视野(轻强度)_102111.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-04",
+      "group": "A",
+      "name": "广角镜头 — 24mm 开阔视野(全强度)",
+      "success": true,
+      "elapsed_s": 31.63,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-04_A_广角镜头_—_24mm_开阔视野(全强度)_102143.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-05",
+      "group": "A",
+      "name": "俯拍 — 鸟瞰顶视图(轻强度)",
+      "success": true,
+      "elapsed_s": 29.09,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-05_A_俯拍_—_鸟瞰顶视图(轻强度)_102213.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-06",
+      "group": "A",
+      "name": "俯拍 — 鸟瞰顶视图(全强度)",
+      "success": true,
+      "elapsed_s": 30.1,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-06_A_俯拍_—_鸟瞰顶视图(全强度)_102243.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-07",
+      "group": "A",
+      "name": "仰拍 — 虫眼低角度(轻强度)",
+      "success": true,
+      "elapsed_s": 25.65,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-07_A_仰拍_—_虫眼低角度(轻强度)_102310.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-08",
+      "group": "A",
+      "name": "仰拍 — 虫眼低角度(全强度)",
+      "success": true,
+      "elapsed_s": 30.7,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-08_A_仰拍_—_虫眼低角度(全强度)_102341.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-09",
+      "group": "A",
+      "name": "等轴测 — 2.5D 正交投影(轻强度)",
+      "success": true,
+      "elapsed_s": 27.74,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-09_A_等轴测_—_2.5D_正交投影(轻强度)_102409.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-10",
+      "group": "A",
+      "name": "等轴测 — 2.5D 正交投影(全强度)",
+      "success": true,
+      "elapsed_s": 30.1,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-10_A_等轴测_—_2.5D_正交投影(全强度)_102440.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-11",
+      "group": "A",
+      "name": "右侧面 — 90° 正侧面(轻强度)",
+      "success": true,
+      "elapsed_s": 26.95,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-11_A_右侧面_—_90°_正侧面(轻强度)_102508.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-12",
+      "group": "A",
+      "name": "右侧面 — 90° 正侧面(全强度)",
+      "success": true,
+      "elapsed_s": 25.16,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-12_A_右侧面_—_90°_正侧面(全强度)_102533.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-13",
+      "group": "A",
+      "name": "背面 — 180° 后方视角(轻强度)",
+      "success": true,
+      "elapsed_s": 23.26,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-13_A_背面_—_180°_后方视角(轻强度)_102557.png",
+      "error": ""
+    },
+    {
+      "case_id": "A-14",
+      "group": "A",
+      "name": "背面 — 180° 后方视角(全强度)",
+      "success": true,
+      "elapsed_s": 22.76,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\A-14_A_背面_—_180°_后方视角(全强度)_102621.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-01",
+      "group": "B",
+      "name": "超广角 — 16mm 极端透视",
+      "success": true,
+      "elapsed_s": 31.0,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\B-01_B_超广角_—_16mm_极端透视_102652.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-02",
+      "group": "B",
+      "name": "长焦 — 200mm 空间压缩",
+      "success": true,
+      "elapsed_s": 30.92,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\B-02_B_长焦_—_200mm_空间压缩_102724.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-03",
+      "group": "B",
+      "name": "微距 — 极致特写",
+      "success": true,
+      "elapsed_s": 27.62,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\B-03_B_微距_—_极致特写_102752.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-04",
+      "group": "B",
+      "name": "全景 — 360° 横向展开",
+      "success": true,
+      "elapsed_s": 22.26,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\B-04_B_全景_—_360°_横向展开_102815.png",
+      "error": ""
+    },
+    {
+      "case_id": "B-05",
+      "group": "B",
+      "name": "无人机航拍 — 高空俯视",
+      "success": true,
+      "elapsed_s": 20.3,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\B-05_B_无人机航拍_—_高空俯视_102836.png",
+      "error": ""
+    },
+    {
+      "case_id": "C-01",
+      "group": "C",
+      "name": "旋转 30° — 物体角度变换",
+      "success": true,
+      "elapsed_s": 26.11,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\C-01_C_旋转_30°_—_物体角度变换_102903.png",
+      "error": ""
+    },
+    {
+      "case_id": "C-02",
+      "group": "C",
+      "name": "旋转 45° — 物体角度变换",
+      "success": true,
+      "elapsed_s": 26.04,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\C-02_C_旋转_45°_—_物体角度变换_102929.png",
+      "error": ""
+    },
+    {
+      "case_id": "C-03",
+      "group": "C",
+      "name": "旋转 90° — 物体角度变换",
+      "success": true,
+      "elapsed_s": 28.93,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\C-03_C_旋转_90°_—_物体角度变换_102959.png",
+      "error": ""
+    },
+    {
+      "case_id": "C-04",
+      "group": "C",
+      "name": "旋转 180° — 物体角度变换",
+      "success": true,
+      "elapsed_s": 25.89,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\C-04_C_旋转_180°_—_物体角度变换_103025.png",
+      "error": ""
+    },
+    {
+      "case_id": "D-01",
+      "group": "D",
+      "name": "视角强度渐变_0.3",
+      "success": true,
+      "elapsed_s": 22.43,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\D-01_D_视角强度渐变_0.3_103048.png",
+      "error": ""
+    },
+    {
+      "case_id": "D-02",
+      "group": "D",
+      "name": "视角强度渐变_0.5",
+      "success": true,
+      "elapsed_s": 30.58,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\D-02_D_视角强度渐变_0.5_103120.png",
+      "error": ""
+    },
+    {
+      "case_id": "D-03",
+      "group": "D",
+      "name": "视角强度渐变_0.8",
+      "success": true,
+      "elapsed_s": 27.46,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\D-03_D_视角强度渐变_0.8_103148.png",
+      "error": ""
+    },
+    {
+      "case_id": "D-04",
+      "group": "D",
+      "name": "视角强度渐变_1.0",
+      "success": true,
+      "elapsed_s": 30.49,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\D-04_D_视角强度渐变_1.0_103219.png",
+      "error": ""
+    },
+    {
+      "case_id": "E-01",
+      "group": "E",
+      "name": "简短Prompt",
+      "success": true,
+      "elapsed_s": 24.18,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\E-01_E_简短Prompt_103244.png",
+      "error": ""
+    },
+    {
+      "case_id": "E-02",
+      "group": "E",
+      "name": "详细Prompt",
+      "success": true,
+      "elapsed_s": 25.93,
+      "local_path": "../output_multiangle_cn\\multiangle_cn_20260706_101946\\E-02_E_详细Prompt_103310.png",
+      "error": ""
+    }
+  ]
+}
